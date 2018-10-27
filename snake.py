@@ -5,7 +5,7 @@
 from PIL import Image 
 from random import randint
 
-end=99
+end=100
 
 def show_board():
     img=Image.open('snake.jpg')
